@@ -1,0 +1,7 @@
+// *****
+// *****
+// *****
+// *****
+public class RecursionPattern1 {
+    
+}
