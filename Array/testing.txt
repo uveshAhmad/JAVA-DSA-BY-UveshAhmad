@@ -1,0 +1,10 @@
+Buisness ( Domain Knowledge)
+Test Cases (Manual Testing)
+API testing (Postman)  
+Selenium +Java + Jenkin + Meaven(All)  Automation
+Appium(for App Testing)
+6-8 month
+
+
+
+
