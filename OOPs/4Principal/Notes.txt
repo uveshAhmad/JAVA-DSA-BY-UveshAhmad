@@ -1,0 +1,7 @@
+overriding objrct par depend hoti hai ;
+Static objrct par depend nahi hote hai ;
+hence you can override static method ;
+you can inherit but you can not override       (STATIC);
+
+Both overloading and overriding does not appply the instance variable ; 
+Ham private  ko getNum function Banakar access kar sakte hai ;
