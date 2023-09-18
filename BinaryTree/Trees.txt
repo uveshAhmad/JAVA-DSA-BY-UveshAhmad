@@ -1,0 +1,21 @@
+Why = 
+            Inserting  , updating and deleting because 0(log n);
+            Orderd in manner ways Left low  and Right greater ;
+            Cost Efficent;
+            
+             
+                       Binary TREE;
+
+ unbalanced Binary tree; 10 ,15 ,20 22 ,30 ,40 ,45   ------> 0(n); for unbalanced Tree;
+ Self Balance Binary Tree(Future Concept);
+ inefficient wiyh sorted data;
+ Uses----->
+File System , Database , Alorithm Network , solve complex mathematical problem , Decession Trees
+, Compression of files , Future Data Structure  (Heap , Graph)
+ 
+
+SIZE = Total Number of Nodes;
+Child = 
+Siblings = 
+
+
