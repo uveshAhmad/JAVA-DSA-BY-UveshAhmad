@@ -1,0 +1,11 @@
+Fibonaccfi;
+Dice Count    LeetCode 1155;
+Climb Staris    LeetCode 70;
+Pascal triangle  LeetCode 118;
+LCS - Longest common subSequence   LC 1143;
+Coin Change problem LC 322 ;
+Min Cost Path LC-64;
+Knapsack ;
+Subset Sum - LC 416;
+
+
